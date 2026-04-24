@@ -79,6 +79,7 @@ h1 {
 .cta h2 {
     font-size: 7vmin;
     text-wrap: balance;
+    line-height: 1.6;
 }
 
 section{
